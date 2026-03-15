@@ -5,9 +5,6 @@ Il classico gioco del Memory installabile su smartphone come PWA (Progressive We
 Puoi provare il gioco direttamente da questo link:
 👉 https://maraa-cpu.github.io/memory-pwa/
 
-## Demo
-
-
 ## Feature Implementate
 * **Griglia di gioco 4x4:** 16 carte accoppiate a due a due con simboli/immagini.
 * **Nuova partita e Reset:** Pulsante dedicato per rimescolare le carte e azzerare i contatori.
@@ -19,9 +16,9 @@ Puoi provare il gioco direttamente da questo link:
 
 ## Tecnologie Utilizzate
 * HTML5
-* CSS3 (Flexbox, Grid, Animazioni 3D)
+* CSS3 
 * JavaScript
-* PWA (Service Worker & Web App Manifest)
+* PWA
 
 ## 📱 Come installare l'App su Smartphone
 1. Apri il link del gioco dal browser del tuo telefono (Chrome su Android, Safari su iOS).
