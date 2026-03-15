@@ -8,7 +8,7 @@ Puoi provare il gioco direttamente da questo link:
 ## Demo
 
 
-## Funzionalità (Feature Implementate)
+## Feature Implementate
 * **Griglia di gioco 4x4:** 16 carte accoppiate a due a due con simboli/immagini.
 * **Nuova partita e Reset:** Pulsante dedicato per rimescolare le carte e azzerare i contatori.
 * **Punteggio (Mosse):** Il gioco tiene traccia del numero di mosse effettuate per completare il quadro.
