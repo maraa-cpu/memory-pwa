@@ -1,5 +1,5 @@
 # memory-pwa
-Un classico gioco del Memory installabile su smartphone come PWA (Progressive Web App). 
+Il classico gioco del Memory installabile su smartphone come PWA (Progressive Web App). 
 
 ## 🎮 Gioca ora
 Puoi provare il gioco direttamente da questo link:
